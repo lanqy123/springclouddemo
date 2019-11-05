@@ -32,6 +32,12 @@ build/
 mvnw
 mvnw.cmd
 .mvn
-customer/.mvn
-producer/.mvn
+/customer/.mvn
+/producer/.mvn
+
+/producer/mvnw
+/producer/mvnw.cmd
+
+/customer/mvnw
+/customer/mvnw.cmd
 
